@@ -16,7 +16,8 @@ uswds.settings.version = 3;
 * Path settings
 * Set as many as you need
 */
-// uswds.paths.dist.css = './assets/css';
+uswds.paths.src.projectSass = './assets/css';
+
 uswds.paths.dist.theme = './_theme';
 
 /**
